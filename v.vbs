@@ -1,2 +1,2 @@
-magboc("Downloaded completed!")
+msgbox("Downloaded completed!")
 msgbox("EXIT_SUCCESS")
